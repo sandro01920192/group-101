@@ -1,0 +1,5 @@
+print("sakdlmas")
+print(1)
+print(2.7)
+print(true)
+print(false)
